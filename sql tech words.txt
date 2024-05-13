@@ -1,0 +1,50 @@
+1. Subquery
+2. Normalization
+3. Denormalization
+4. Indexing
+5. Composite Key
+6. Candidate Key
+7. Primary Key
+8. Foreign Key
+9. Unique Constraint
+10. Check Constraint
+11. Aggregate Functions
+12. Group By
+13. Having Clause
+14. Window Functions
+15. Row-level Security
+16. Data Definition Language (DDL)
+17. Data Manipulation Language (DML)
+18. Transaction
+19. Atomicity
+20. Consistency
+21. Isolation
+22. Durability
+23. View
+24. Materialized View
+25. Stored Procedure
+26. User-Defined Function (UDF)
+27. Triggers
+28. Cartesian Product
+29. Inner Join
+30. Outer Join
+31. Cross Join
+32. Self Join
+33. UNION
+34. INTERSECT
+35. EXCEPT
+36. Substring
+37. CASE Statement
+38. Recursive Query
+39. Temporary Table
+40. Scalar Subquery
+41. Correlated Subquery
+42. SQL Injection
+43. Database Schema
+44. Data Warehouse
+45. OLAP (Online Analytical Processing)
+46. OLTP (Online Transaction Processing)
+47. Data Mart
+48. ETL (Extract, Transform, Load)
+49. Database Replication
+50. Database Partitioning
