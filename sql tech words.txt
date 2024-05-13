@@ -1,4 +1,4 @@
-1. Subquery
+1. What is Subquery
 2. Normalization
 3. Denormalization
 4. Indexing
