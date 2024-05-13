@@ -1,0 +1,50 @@
+1. ORM (Object-Relational Mapping)
+2. QuerySet
+3. Model
+4. Migration
+5. Middleware
+6. Template Engine
+7. View
+8. URLconf
+9. Admin Interface
+10. Form
+11. Django Rest Framework
+12. Serializer
+13. DRF ViewSets
+14. Authentication
+15. Authorization
+16. Django Signals
+17. Celery
+18. Middleware
+19. Django Forms
+20. Django Admin
+21. CSRF (Cross-Site Request Forgery) Protection
+22. Session
+23. Django Middleware
+24. Django Template Language
+25. Django Management Commands
+26. Django Context Processors
+27. Django Static Files
+28. Django Signals
+29. Django Custom Managers
+30. Django Custom Template Tags
+31. Django File Storage
+32. Django Caching
+33. Django Middleware
+34. Django Testing
+35. Django Fixture
+36. Django Template Filters
+37. Django Apps
+38. Django Project
+39. Django Rest Framework Permissions
+40. Django Class-Based Views
+41. Django Middleware
+42. Django Query Expressions
+43. Django Model Manager
+44. Django Formsets
+45. Django Query Optimization
+46. Django Middleware
+47. Django Middleware Classes
+48. Django QuerySet Methods
+49. Django Template Inheritance
+50. Django Middleware Functions
